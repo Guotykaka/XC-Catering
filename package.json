@@ -1,0 +1,17 @@
+{
+  "name": "xs-diandan-uniapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "decimal.js": "^10.2.0",
+    "umtrack-wx": "^2.5.2",
+    "uview-ui": "^1.7.0"
+  }
+}
